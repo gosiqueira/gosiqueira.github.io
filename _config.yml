@@ -14,7 +14,7 @@ logo: "https://avatars3.githubusercontent.com/u/11512513?v=4"
 float_logo: true # true, false (default)
 
 # blog cover
-cover: "/assets/images/layout-background"
+cover: "/assets/images/layout-background.jpg"
 
 name: 'Gustavo Siqueira'
 author: 'Gustavo Siqueira'
